@@ -102,6 +102,10 @@ nav a {
   font-weight: bold;
 }
 
+nav a:hover{
+  color: orangered;
+}
+
 
 nav ul {
   list-style: none;
